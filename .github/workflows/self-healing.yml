@@ -133,8 +133,8 @@ jobs:
             {
               "general": {
                 "defaultApprovalMode": "auto_edit",
-                "maxAttempts": 1,
-                "retryFetchErrors": false,
+                "maxAttempts": 2,
+                "retryFetchErrors": true,
                 "enableAutoUpdate": false
               }
             }
